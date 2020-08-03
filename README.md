@@ -1,2 +1,2 @@
 # bwf
-Sportsball spriritual successor
+Sportsball spiritual successor
